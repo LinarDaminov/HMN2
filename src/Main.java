@@ -62,7 +62,7 @@ public class Main {
 
         //Task 7
         var Total = 640;
-        var staff = Total / 8;
+        var staff = Total / 8 ;
         System.out.println("Всего работников в компании " + staff + " человек ") ;
 
         var bigStaff = staff + 94;
